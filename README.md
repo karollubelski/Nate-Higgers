@@ -7,6 +7,7 @@ System Wypożyczalni Samochodów to aplikacja przeznaczona do usprawnienia zarz�
 
 ## Kluczowe Funkcjonalności - prio
 <br>
+
 - Przegląd statusu pojazdów – Informacje o dostępności, wynajmie, serwisie, myciu oraz rezerwacjach pojazdów.
 
 - Aktualizacja statusu pojazdu – Pracownicy mogą zmieniać status pojazdu (np. dostępny, wynajęty, w serwisie).
