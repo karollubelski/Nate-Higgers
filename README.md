@@ -72,14 +72,6 @@ System Wypożyczalni Samochodów to aplikacja przeznaczona do usprawnienia zarz�
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[React.js]: https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB
-[React-url]: https://reactjs.org/
-
-[SpringBoot]: https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff
-[Spring-url]: 
 
 
 
