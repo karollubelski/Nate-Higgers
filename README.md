@@ -1,4 +1,4 @@
-### System Wypożyczalni Samochodów - Aplikacja dla Pracowników
+## System Wypożyczalni Samochodów - Aplikacja dla Pracowników
 	
 
 System Wypożyczalni Samochodów to aplikacja przeznaczona do usprawnienia zarządzania flotą pojazdów w firmie. Umożliwia pracownikom efektywne zarządzanie wypożyczeniami, rezerwacjami, serwisem oraz rolami użytkowników. Głównym celem aplikacji jest oszczędność czasu, zwiększenie przejrzystości danych oraz minimalizacja błędów wynikających z ręcznego zarządzania flotą.
@@ -6,7 +6,7 @@ System Wypożyczalni Samochodów to aplikacja przeznaczona do usprawnienia zarz�
 
 
 
-# Kluczowe Funkcjonalności - prio
+### Kluczowe Funkcjonalności - prio
 
 - Przegląd statusu pojazdów – Informacje o dostępności, wynajmie, serwisie, myciu oraz rezerwacjach pojazdów.
 
