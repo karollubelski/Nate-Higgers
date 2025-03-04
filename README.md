@@ -21,6 +21,7 @@ System Wypożyczalni Samochodów to aplikacja przeznaczona do usprawnienia zarz�
 
 ## Dalsze propozycje funkcjonalności
 <br>
+
 - Zarządzanie rezerwacjami – Obsługa rezerwacji z weryfikacją dostępności pojazdów.
 
 - Historia wynajmów i napraw – Śledzenie historii każdego pojazdu, w tym wynajmów i napraw.
@@ -31,6 +32,7 @@ System Wypożyczalni Samochodów to aplikacja przeznaczona do usprawnienia zarz�
 
 ## Stos technologiczny
 <br>
+
 - Frontend: [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) / [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 - Backend: [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) / 	[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 - Database: [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
