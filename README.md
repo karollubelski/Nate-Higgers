@@ -6,7 +6,7 @@ System Wypożyczalni Samochodów to aplikacja przeznaczona do usprawnienia zarz�
 
 
 
-### Kluczowe Funkcjonalności - prio
+## Kluczowe Funkcjonalności - prio
 
 - Przegląd statusu pojazdów – Informacje o dostępności, wynajmie, serwisie, myciu oraz rezerwacjach pojazdów.
 
@@ -19,7 +19,7 @@ System Wypożyczalni Samochodów to aplikacja przeznaczona do usprawnienia zarz�
 - Powiadomienia – Automatyczne przypomnienia o zbliżających się przeglądach, zwrotach pojazdów itp.
 
 
-# Dalsze propozycje funkcjonalności
+## Dalsze propozycje funkcjonalności
 
 - Zarządzanie rezerwacjami – Obsługa rezerwacji z weryfikacją dostępności pojazdów.
 
@@ -29,7 +29,7 @@ System Wypożyczalni Samochodów to aplikacja przeznaczona do usprawnienia zarz�
 
 
 
-# Stos technologiczny
+## Stos technologiczny
 
 - Frontend: Typescript / React.js
 - Backend: Java / Spring Boot
@@ -40,7 +40,7 @@ System Wypożyczalni Samochodów to aplikacja przeznaczona do usprawnienia zarz�
 
 
 
-# Kolejne kroki 
+## Kolejne kroki 
 
 1. Doprecyzowanie wymagań:
 
@@ -67,7 +67,7 @@ System Wypożyczalni Samochodów to aplikacja przeznaczona do usprawnienia zarz�
 
 
 
-# Wstępny projekt schematu bazy danych
+## Wstępny projekt schematu bazy danych
 
 
  
