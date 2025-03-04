@@ -29,8 +29,8 @@ System Wypożyczalni Samochodów to aplikacja przeznaczona do usprawnienia zarz�
 
 # Stos technologiczny
 
-- Frontend: Typescript / *[![React][React.js]][React-url]
-- Backend: Java / *[![Springboot][Springboot]][Springboot-url]
+- Frontend: Typescript / * [![React][React.js]][React-url]
+- Backend: Java / * [![Springboot][Springboot]][Springboot-url]
 - Database: PostreSQL 
 - Additional Tools:
 - - Docker
