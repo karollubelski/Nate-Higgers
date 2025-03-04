@@ -1,6 +1,9 @@
 # System Wypożyczalni Samochodów - Aplikacja dla Pracowników
 
+
 System Wypożyczalni Samochodów to aplikacja przeznaczona do usprawnienia zarządzania flotą pojazdów w firmie. Umożliwia pracownikom efektywne zarządzanie wypożyczeniami, rezerwacjami, serwisem oraz rolami użytkowników. Głównym celem aplikacji jest oszczędność czasu, zwiększenie przejrzystości danych oraz minimalizacja błędów wynikających z ręcznego zarządzania flotą.
+
+
 
 # Kluczowe Funkcjonalności - prio
 
@@ -15,6 +18,8 @@ System Wypożyczalni Samochodów to aplikacja przeznaczona do usprawnienia zarz�
 - Powiadomienia – Automatyczne przypomnienia o zbliżających się przeglądach, zwrotach pojazdów itp.
 
 
+
+
 # Dalsze propozycje funkcjonalności
 - Zarządzanie rezerwacjami – Obsługa rezerwacji z weryfikacją dostępności pojazdów.
 
@@ -24,12 +29,14 @@ System Wypożyczalni Samochodów to aplikacja przeznaczona do usprawnienia zarz�
 
 # Stos technologiczny
 
-- Frontend: Typescript / React.js  
-- Backend: Java / Spring Boot
+- Frontend: Typescript /[![React][React.js]][React-url]
+- Backend: Java / [![Springboot][Springboot]][Springboot-url]
 - Database: PostreSQL
 - Additional Tools:
 - - Docker
   - NGINX + Gunicorn
+
+
  
 
 # Kolejne kroki 
@@ -61,6 +68,8 @@ System Wypożyczalni Samochodów to aplikacja przeznaczona do usprawnienia zarz�
 7. Testowanie:
 
 - Przeprowadzenie testów jednostkowych i integracyjnych dla backendu i frontendu.
+
+
 
 # Wstępny projekt schematu bazy danych
 
