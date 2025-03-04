@@ -33,7 +33,7 @@ System Wypożyczalni Samochodów to aplikacja przeznaczona do usprawnienia zarz�
 
 - Frontend: Typescript / React.js
 - Backend: Java / Spring Boot
-- Database: PostreSQL 
+- Database: PostreSQL  [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 - Additional Tools:
   - Docker
   - NGINX + Gunicorn
@@ -76,8 +76,10 @@ System Wypożyczalni Samochodów to aplikacja przeznaczona do usprawnienia zarz�
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [React.js]: https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB
-
 [React-url]: https://reactjs.org/
+
+[SpringBoot]: https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff
+[Spring-url]: 
 
 
 
